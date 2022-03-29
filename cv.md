@@ -37,6 +37,7 @@ I don't have any experience with Web development
 * [CS50 lectures](https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
 * [HTML Academy](https://htmlacademy.ru/)
 * [RS School](https://rs.school/)
+
 ## Languages:
 * Russian - native
 * English - A2
