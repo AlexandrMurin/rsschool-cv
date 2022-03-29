@@ -1,7 +1,7 @@
 # Alexandr Murin
-***
+
 ## Junior Frontend Developer
-***
+
 ### Contact information:
 * **Phone:** +375 29 200-02-33
 * **Email:** alex.murin91@gmail.com
@@ -20,23 +20,23 @@ My goal is to become Frontend Developer.
 * Figma
 ***
 ### Code Example:
-'''javascript
+```javascript
 function sum(a, b) {
   return a + b;
 }
 
 let result = sum(1, 2);
 console.log(result);
-'''
+```
 ***
 ### Experience:
 I don't have any experience with Web development
 ***
 ### Education:
 **Courses:**
-*[CS50 lectures](https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
-*[HTML Academy](https://htmlacademy.ru/)
-*[RS School](https://rs.school/)
+* [CS50 lectures](https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
+* [HTML Academy](https://htmlacademy.ru/)
+* [RS School](https://rs.school/)
 ***
 ### Languages:
 * Russian - native
